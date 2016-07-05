@@ -1,12 +1,16 @@
-var favoriteCharacter = "Jon Snow"
+var favoriteCharacter = "Jon Snow, the White Wolf"
 print(favoriteCharacter)
 
-favoriteCharacter = "Tyrion Lannister"
+favoriteCharacter = "The King in the North!"
 print(favoriteCharacter)
 
-favoriteCharacter = 76
+//favoriteCharacter = "76"
 
-let ultimateFavoriteCharacter = "Arya Stark"
+var ultimateFavoriteCharacter = "Arya Stark"
+
 print(ultimateFavoriteCharacter)
 
-ultimateFavoriteCharacter = "Daenerys Targaryen"
+ultimateFavoriteCharacter = "Tyrion Lannister"
+
+let trueFavoriteCharacter = "Queen Daenerys Targaryen, first of her name"
+
